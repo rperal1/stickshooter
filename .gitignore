@@ -1,6 +1,9 @@
+<<<<<<< HEAD
 # Created by https://www.gitignore.io/api/unity
 
 ### Unity ###
+=======
+>>>>>>> 801e0e8f3d87390d6e0c2dae38333e1d1784ed2c
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -35,5 +38,8 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+<<<<<<< HEAD
 
 # End of https://www.gitignore.io/api/unity
+=======
+>>>>>>> 801e0e8f3d87390d6e0c2dae38333e1d1784ed2c
